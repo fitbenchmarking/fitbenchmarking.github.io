@@ -4,7 +4,7 @@ bio:                'Quantifying optimisation.'
 description:        "Tool for comparing the run time and accuracy of minimizers on fit benchmarking problems."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/fbmlogo.png'
+logo:               'assets/img/fbmlogo-cir.png'
 background:         'assets/img/bkg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
