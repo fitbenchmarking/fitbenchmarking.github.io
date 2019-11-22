@@ -1,5 +1,5 @@
 # Site
-title:              fitbenchmarking
+title:              FitBenchmarking
 bio:                'Quantifying optimisation.'
 description:        "Tool for comparing the run time and accuracy of minimizers on fit benchmarking problems."
 reading_time:       true
