@@ -1,6 +1,7 @@
 ---
 layout: page
-title: FitBenchmarking 
+title: FitBenchmarking
+tags: [about]
 date: 2019-11-22
 comments: false
 ---
