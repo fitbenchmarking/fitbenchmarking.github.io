@@ -8,7 +8,7 @@ logo:               'assets/img/fbmlogo-cir.png'
 background:         'assets/img/bkg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
-url:                https://fitbenchmarking.github.io/
+url:                https://fitbenchmarking.com
 
 # Jekyll
 permalink:          /:title/
@@ -41,7 +41,7 @@ sass:
 #twitter:            username
 #facebook:           username
 github-url:         "fitbenchmarking/fitbenchmarking"
-documentation:      "docs.fitbenchmarking.com"
+documentation:      "fitbenchmarking.readthedocs.io"
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
