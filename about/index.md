@@ -30,7 +30,7 @@ This is a community package. We, of course thank ourselves :-), i.e. those who h
 
 * EU [SINE2020](https://www.sine2020.eu) WP-10, which received funding from the European Union's Horizon2020 research and innovation programme under grant agreement No 654000
 * EPSRC Grant EP/M025179/1 Least Squares: Fit for the Future.
-* STFC’s [ISIS Neutron and Muon Facility](https://www.isis.stfc.ac.uk) and STFC department
+* STFC’s [ISIS Neutron and Muon Facility](https://www.isis.stfc.ac.uk)
 * STFC’s [Scientific Computing Department](https://www.scd.stfc.ac.uk)
 * [Diamond Light Source Ltd](https://www.diamond.ac.uk)
 * The Ada Lovelace Centre (ALC). ALC is an integrated, cross-disciplinary data intensive science centre, for better exploitation of research carried out at our large scale National Facilities including the Diamond Light Source (DLS), the ISIS Neutron and Muon Facility, the Central Laser Facility (CLF) and the Culham Centre for Fusion Energy (CCFE)
