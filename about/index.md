@@ -2,7 +2,7 @@
 layout: page
 title: About FitBenchmarking
 tags: [about]
-date: 2021-10-05
+date: 2024-11-14
 comments: false
 ---
 
@@ -35,4 +35,4 @@ This is a community package. We, of course thank ourselves :-), i.e. those who h
 * [Diamond Light Source Ltd](https://www.diamond.ac.uk)
 * The Ada Lovelace Centre (ALC). ALC is an integrated, cross-disciplinary data intensive science centre, for better exploitation of research carried out at our large scale National Facilities including the Diamond Light Source (DLS), the ISIS Neutron and Muon Facility, the Central Laser Facility (CLF) and the Culham Centre for Fusion Energy (CCFE)
 
-Finally, for questions, requests etc. don’t hesitate to contact us on support@fitbenchmarking.com, submit [Github issues](https://github.com/fitbenchmarking/fitbenchmarking/issues), join our weekly Tuesday (11:00-12:00 UK time, 12:00-13:00 Central European time) FitBenchmarking Zoom catch-ups (please email support@fitbenchmarking.com to get details) or contact individual active developers.
+Finally, for questions, feature requests etc. don’t hesitate to contact the FitBenchmarking team. Submit [Github issues](https://github.com/fitbenchmarking/fitbenchmarking/issues) and/or join our monthly meetings (on the first Tuesday of every month 11:00-12:00 UK time, 12:00-13:00 Central European time) . Please contact individual active developers for details regarding the meetings.
